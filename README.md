@@ -2,9 +2,6 @@
   <h1>Onedrive-vercel-index By @spencerwooo</h1>
   <h1><a href="https://github.com/spencerwooo/onedrive-vercel-index">Orignal Repo</a></h1>
  
-
-## Quick start
-
 🚀 Quick start: [Getting started](https://ovi.swo.moe/docs/getting-started).
 
 ## Features
