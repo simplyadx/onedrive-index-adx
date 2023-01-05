@@ -1,5 +1,5 @@
 <div align="center">
-  <h3><a href="https://drive.swo.moe">onedrive-vercel-index By @spencerwooo</a></h3>
+  <h1><a href="https://drive.swo.moe">onedrive-vercel-index By @spencerwooo</a></h1>
 
   <img src="./public/header.png" alt="onedrive-vercel-index" />
   <h3><a href="https://drive.swo.moe">onedrive-vercel-index</a></h3>
